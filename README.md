@@ -2,7 +2,7 @@
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning App Development, RPA
 - 💞️ I’m looking to collaborate on App Development
-- 📫 How to reach me Smart Start.
+- 📫 How to reach me Smart Start Australia.
 
 <!---
 AjenMonitoringSystems/AjenMonitoringSystems is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
